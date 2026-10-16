@@ -19,4 +19,6 @@ wymaga zrozumienia sensu, hierarchizacji informacji i wyciągania wniosków
 ### tłumaczenie tekstu
 wymaga znajomośi kontekstu kulturowego, idiomów oraz intencji autora
 ### klasyfikacja tekstu do kategorii tematycznych
-wymaga 
+wymaga analizy semantycznej i interpretacji
+### odpowiadanie na proste pytania zadawane w języku naturalnym (np. polskim)
+wymaga rozumienia języka i wiedzy o świecie
