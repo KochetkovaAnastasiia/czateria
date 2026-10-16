@@ -15,6 +15,8 @@
 - kierowanie samochodem
 
 ### streszczanie tekstu
- wymaga zrozumienia sensu, hierarchizacji informacji i wyciągania wniosków
+wymaga zrozumienia sensu, hierarchizacji informacji i wyciągania wniosków
 ### tłumaczenie tekstu
-wymaga znajomośi kontekstu kulturowego, i
+wymaga znajomośi kontekstu kulturowego, idiomów oraz intencji autora
+### klasyfikacja tekstu do kategorii tematycznych
+wymaga 
