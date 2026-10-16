@@ -58,17 +58,17 @@ widzieć zachowania dwóch rozmawiających ze sobą chatbotów (przepisując ich
 wzajemne odpowiedzi).
 5. Zdenerwuj bota 😊😊
 ## Lista startowa chatbotów:
-- cleverbot.com
-- www.chatbot4u.com
-- www.chatbot.pl
-- douweosinga.com
-- apps.facebook.com/luxoft_avatar
-- chatterboty.pl
-- ikea.com.pl (zapytaj Anię)
-- www.chatbots.org
-- www.snikers.pl
-- www.personalityforge.com (hall of fame)
-- www.ecreation.pl
-- wellbot.tk
-- www.inguaris.pl
-- tremo.algit.p
+- [cleverbot](https://www.cleverbot.com/)
+-  [chatbot4u](https://watermelon.ai/)
+- [chatbot](https://chatbot.pl/)
+- [douweosinga](https://douwe.com/projects/)
+- [luxoft_avatar](https://www.facebook.com/login/?next=https%3A%2F%2Fapps.facebook.com%2Fluxoft_avatar)
+- [chatterboty](https://chatterboty.pl/)
+- [ikea](https://www.ikea.com/pl/pl/) (zapytaj Anię)
+- [chatbots](https://www.chatbots.org/)
+- [snikers](https://www.snikers.pl/)
+- [personalityforge](https://www.personalityforge.com/)(hall of fame)
+- [ecreation](https://www.ecreation.pl/)
+- [wellbot](https://wellbot.tk/)
+- [inguaris](https://www.inguaris.pl/)
+- [tremo.algit](https://tremo.algit.pl/)
