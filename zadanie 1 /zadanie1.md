@@ -43,4 +43,3 @@ polega na wykonywaniu czynności zgodnie z gotowymi wzorami matematycznymi
 jest to czysto mechaniczne zastosowanie znanych zasad różniczkowania
 ### symboliczne całkowanie funkcji
 chociaż czasami bywa to trudniejsze, opiera się to na znanych schematach i wzorach matematycznych
-
